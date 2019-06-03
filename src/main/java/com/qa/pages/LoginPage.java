@@ -9,7 +9,7 @@ public class LoginPage {
 
 
 
-    public void forgotpassword()
+    public void forgotpassword1()
     {
         System.out.println("forgotpassword");
     }
